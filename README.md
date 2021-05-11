@@ -42,6 +42,5 @@ I am a web developer 👨‍💻. I love programming and creating applications t
 
 ### Other Accounts 📫
 
-You can find and get touch with me on these accounts! 
-<br>
-[hozanno11@gmail.com](mailto:hozanno11@gmail.com)
+Gmail: [hozanno11@gmail.com](mailto:hozanno11@gmail.com) <br>
+Twitter: [https://twitter.com/Raphael19978](https://twitter.com/Raphael19978)
