@@ -16,6 +16,7 @@ I am a web developer 👨‍💻. I love programming and creating applications t
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### Learning 📚:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,3 +33,15 @@ I am a web developer 👨‍💻. I love programming and creating applications t
 #### Package management
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <hr/>
+
+### 💡 Goals for 2021:
+- Finish my website
+- Learn as much as I can
+- Become skilled in React, CSS.
+- Grow as a person
+
+### Other Accounts 📫
+
+You can find and get touch with me on these accounts! 
+<br>
+[hozanno11@gmail.com](mailto:hozanno11@gmail.com)
