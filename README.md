@@ -34,13 +34,6 @@ I am a web developer 👨‍💻. I love programming and creating applications t
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 <hr/>
 
-### 💡 Goals for 2021:
-- Finish my website
-- Learn as much as I can
-- Become skilled in React, CSS.
-- Grow as a person
-
 ### Other Accounts 📫
 
 Gmail: [hozanno11@gmail.com](mailto:hozanno11@gmail.com) <br>
-Twitter: [https://twitter.com/Raphael19978](https://twitter.com/Raphael19978)
